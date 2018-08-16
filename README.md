@@ -7,7 +7,7 @@ The aim of 4PAD is to foster interaction between the formal methods communities 
 4PAD has a light-weight steering committe whose role is to appoint the chairs of the next edition and to ensure continuity of the spirit of the event.
 
 ## Composition policy
-From 2014 to 2018 the steering committee was formed by the founders of the event. Starting from 2018, the steering committee of 4PAD has a new policy to propomote renewal of the community and the topics: the steering committe is to be composed by the organisers (chairs) of the last 3 editions. Upon conclusion of edition N, the organisers of edition N join the steering committee and the two members that organised edition N-3 leave the committe. In the transition period from the old to the new policy the committee is composed by just 4 members. 
+From 2014 to 2018 the steering committee was formed by the founders of the event. Starting from 2018, the steering committee of 4PAD has a new policy to promote renewal of the community and the topics: the steering committe is to be composed by the organisers (chairs) of the last 3 editions. Upon conclusion of edition N, the organisers of edition N join the steering committee and the two members that organised edition N-3 leave the committe. In the transition period from the old to the new policy the committee is composed by just 4 members. 
 
 ## Current members
 * Simon Bliudze (INRIA Lille, FR)
@@ -22,8 +22,8 @@ From 2014 to 2018 the steering committee was formed by the founders of the event
 * Emilio Tuosto (University of Leicester, UK)
 
 # Previous editions
-* [4PAD 2018](http://hpcs2018.cisedu.info/2-conference/symposia---hpcs2018/symp05-4pad)
-* [4PAD 2017](https://www.pdp2017.org/4pad.html)
-* [4PAD 2016](http://www.pdp2016.org/SS2.html)
-* [4PAD 2015](http://www.pdp2015.org/specialsessions/formalhpc/formalhpc.html)
-* [4PAD 2014](http://www.pdp2014.org/specialsessions/formalhpc)
+* [4PAD 2018](http://hpcs2018.cisedu.info/2-conference/symposia---hpcs2018/symp05-4pad) @HPCS2018, Orléans, France
+* [4PAD 2017](https://www.pdp2017.org/4pad.html) @PDP2017, St. Petersburg, Russia
+* [4PAD 2016](http://www.pdp2016.org/SS2.html) @PDP2016, Heraklion, Greece
+* [4PAD 2015](http://www.pdp2015.org/specialsessions/formalhpc/formalhpc.html) @PDP2015, Turki, Finland
+* [4PAD 2014](http://www.pdp2014.org/specialsessions/formalhpc) @PDP2014, Turin, Italy
