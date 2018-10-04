@@ -11,7 +11,6 @@ From 2014 to 2018 the steering committee was formed by the founders of the event
 
 ## Current members
 * Simon Bliudze (INRIA Lille, FR)
-* Borzoo Bonakdarpour (McMaster University, CA)
 * Frédéric Loulergue (Northern Arizona University, US)
 * Jean-Michel Couvreur (Université d’Orléans, FR)
 
